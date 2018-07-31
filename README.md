@@ -5,7 +5,7 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 
 # How to use it
 
-**#1 Option (All in one go - use option #2 or #3 if it's too complicate - using developer console)**
+**#1 Option (All in one go - using developer console)**
 
 *This work for 7.19 guides, may need some adjustment for next version. Please use other option for other version.*
 
@@ -17,7 +17,7 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 6. Paste the contents of [add_all_guides.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js) that are copied in the step 3.
 7. Press enter to run the code. Wait for it to finish, it may take a while.
 
-**#2 Option (Work for any Dota 2 guide workshop page - using bookmark)**
+**#2 Option (Work on any Dota 2 guide workshop page - using bookmark)**
 
 1. Open and view the raw code for [add_all_from_current_page_fav.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page_fav.js).
 2. Select all the raw code (`Ctrl + A`).
@@ -28,7 +28,7 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 7. Click the bookmarklet and it will subscribe all guides on that page.
 8. Repeat step 6-7 on all guide pages.
 
-**#3 Option (Work for any Dota 2 guide workshop page - using developer console)**
+**#3 Option (Work on any Dota 2 guide workshop page - using developer console)**
 
 1. Open and view the raw code for [add_all_from_current_page.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page.js).
 2. Select all the raw code (`Ctrl + A`).
