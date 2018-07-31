@@ -53,7 +53,7 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 
 6. Open [add_all_guides.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js) and replace old guideList with your new guideList.
 
-# Special Thank You!
+# Credits
 
 Steamdb.info for base code: https://steamdb.info/freepackages/
 
