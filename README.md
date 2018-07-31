@@ -1,5 +1,6 @@
 # tortedelini-guide-subscuribe
-Subscribe to all Torte De Lini's guide for Dota 2.
+
+Subscribe to all Torte De Lini's guide for Dota 2. Including all guides for 7.19. Need to be update if there is new guide or some guide get remove in the next version.
 
 # How to use it
 
