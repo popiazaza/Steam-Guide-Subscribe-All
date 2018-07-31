@@ -13,6 +13,8 @@ Run this code
 
 Wait for it to finish, it may take a while
 
+Enjoy!
 
+# Thank you
 
-code is adapted from https://steamdb.info/freepackages/
+I use code from Steamdb.info as my base code : https://steamdb.info/freepackages/
