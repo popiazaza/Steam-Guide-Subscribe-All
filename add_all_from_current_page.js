@@ -17,6 +17,7 @@
 		if(guidematch){
 			var guidedetail = jQuery.parseJSON(guidematch[2]);
 			guideList.push(guidedetail.id);
+			subscribedList[guidedetail.id] = guidedetail.user_subscribed;
 		}
 	});
 	
@@ -30,6 +31,12 @@
 	for( ; i < total; i++ )
 	{
 		guideid = guideList[ i ];
+		
+		if( subscribedList[ guideid ] )
+		{
+			loaded++;
+			continue;
+		}
 		
 		jQuery.post(
 			'//steamcommunity.com/sharedfiles/subscribe',
