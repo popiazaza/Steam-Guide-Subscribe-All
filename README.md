@@ -12,3 +12,7 @@ Open developer tools in your browser, if you don't know how to open it please fo
 Run this code
 
 Wait for it to finish, it may take a while
+
+
+
+code is adapted from https://steamdb.info/freepackages/
