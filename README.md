@@ -15,6 +15,6 @@ Wait for it to finish, it may take a while
 
 Enjoy!
 
-# Thank you
+# Thank you Steamdb.info
 
 I use code from Steamdb.info as my base code : https://steamdb.info/freepackages/
