@@ -5,6 +5,8 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 
 # How to use it
 
+*You use one of any option for the same result. I listed from easy to hard, choose the one you find it easy for you*
+
 **#1st Option (All in one go - using developer console)**
 
 *This work for 7.19 guides, may need some adjustment for next version. Please use other option for other version.*
