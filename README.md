@@ -5,55 +5,56 @@ Subscribe to all Torte De Lini's guide for Dota 2.
 
 # How to use it
 
-## #1 Option (Easy - Recommended)
+## #1 Option (All in one go - use option #2 if it's too complicate - Use console)
 
-**This work for 7.19 guides, may need some adjustment for next version. Use #2 Option for other version**
+**This work for 7.19 guides, may need some adjustment for next version. Please use other option for other version**
 
-Copy code from: https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js
+1. Open and view the raw code for [add_all_guides.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js).
+2. Select all the raw code (`Ctrl + A`).
+3. Copy all the selected raw code (`Ctrl + C`, or right-click and select `Copy`).
+4. Navigate to [Torte de Lini\'s guide page](https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30).
+5. [Open developer console in your browser](https://webmasters.stackexchange.com/a/77337).
+6. Paste the contents of [add_all_guides.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js) that are copied in the step 3.
+7. Press enter to run the code. Wait for it to finish, it may take a while.
 
-Open Torte de Lini\'s guide page: https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30
+## #2 Option (Easy to use - Work for any Dota 2 guide workshop page - Use Bookmark)
 
-Open developer tools in your browser, if you don't know how to open it please follow this guide: https://webmasters.stackexchange.com/a/77337
+1. Open and view the raw code for [add_all_from_current_page_fav.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page_fav.js).
+2. Select all the raw code (`Ctrl + A`).
+3. Copy all the selected raw code (`Ctrl + C`, or right-click and select `Copy`).
+4. Bookmark this page.
+5. Edit the URL of the bookmark by right-clicking the new bookmark and selecting `Edit`. In the **URL** or **Location** field, paste the contents of [add_all_from_current_page_fav.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page_fav.js) that are copied in the step 3. You can change the **Name** field of the bookmark too, such as "Guide Subscribe"!
+6. Navigate to [Torte de Lini\'s guide page](https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30). (You could probably bookmark that too! :wink:)
+7. Click the bookmarklet and it will subscribe all guides on that page.
+8. Repeat step 6-7 on all guide pages.
 
-Run this code
+## #3 Option (Work for any Dota 2 workshop page - Use Console)
 
-Wait for it to finish, it may take a while
+1. Open and view the raw code for [add_all_from_current_page.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page.js).
+2. Select all the raw code (`Ctrl + A`).
+3. Copy all the selected raw code (`Ctrl + C`, or right-click and select `Copy`).
+4. Navigate to [Torte de Lini\'s guide page](https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30).
+5. [Open developer console in your browser.](https://webmasters.stackexchange.com/a/77337)
+6. Paste the contents of [add_all_from_current_page.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page.js) that are copied in the step 3.
+7. Press enter to run the code. Wait for it to finish, it may take a while.
+8. Repeat step 6-7 on all guide pages.
 
-Enjoy!
+## #4 Option (Build new add_all_guides.js for advanced user - Use Console)
 
+1. Copy top partion code of  from [for_testing.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/for_testing.js).
 
-## #2 Option
+2. Navigate to [Torte de Lini\'s guide page](https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30).
 
-Copy code from: https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_from_current_page.js
+3. [Open developer console in your browser.](https://webmasters.stackexchange.com/a/77337) and run this code.
 
-Open Torte de Lini\'s guide page: https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30
+4. Copy the console log and replace your first line of code with it
 
-Open developer tools in your browser, if you don't know how to open it please follow this guide: https://webmasters.stackexchange.com/a/77337
+5. Open next guide page and run this code again until last page
 
-Run this code
+6. Open [add_all_guides.js](https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js) and replace old guideList with your new guideList.
 
-Wait for it to finish, it may take a while
+# Special Thank You!
 
-Open next guide page and run this code again until last page
+Steamdb.info for base code: https://steamdb.info/freepackages/
 
-Enjoy!
-
-## #3 Option (Build new add_all_guides.js for advanced user)
-
-Copy top partion code from: https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/for_testing.js
-
-Open Torte de Lini\'s guide page: https://steamcommunity.com/id/0825771/myworkshopfiles/?section=guides&p=1&numperpage=30
-
-Open developer tools in your browser
-
-Run this code
-
-Copy the console log and replace your first line of code with it
-
-Open next guide page and run this code again until last page
-
-Open add_all_guides.js and replace old guideList with your new guideList: https://raw.githubusercontent.com/popiazaza/tortedelini-guide-subscuribe/master/add_all_guides.js
-
-# Thank you Steamdb.info
-
-I use code from Steamdb.info as my base code : https://steamdb.info/freepackages/
+WillsonHaw for how to: https://github.com/WillsonHaw/VacBanChecker/blob/master/README.md
