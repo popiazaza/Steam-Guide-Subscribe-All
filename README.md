@@ -1,3 +1,9 @@
+## Move to userscript to be more user friendly, this github will be achieve!
+
+Follow the link below!!!
+
+https://greasyfork.org/en/scripts/372234-dota-2-workshop-guide-auto-subscribe
+
 # tortedelini-guide-subscuribe
 
 Subscribe to all Torte De Lini's guide for Dota 2.
