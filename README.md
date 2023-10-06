@@ -79,3 +79,7 @@ For other workshop items, you can use [Augmented Steam](https://augmentedsteam.c
 Steamdb.info for base code: https://steamdb.info/freepackages/
 
 WillsonHaw for how to: https://github.com/WillsonHaw/VacBanChecker/blob/master/README.md
+
+# License
+
+MIT License
